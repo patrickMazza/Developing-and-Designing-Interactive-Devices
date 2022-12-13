@@ -198,6 +198,11 @@ Prototyping the motor was a process that went in an unexpected direction.
 
 Prototyping the motor was a process that went in an unexpected direction.
 
+This was the evolution in motor choice and movement prototypes:
+
+![IMG_7117](https://user-images.githubusercontent.com/112049036/207393745-b610c054-1bb9-4635-9276-6ed592f48b5b.jpg)
+![IMG_7118](https://user-images.githubusercontent.com/112049036/207393748-95e5a0af-f2e5-41b6-ba96-4fe99e0de25b.jpg)
+![IMG_7119](https://user-images.githubusercontent.com/112049036/207393749-50d32b5f-e343-436e-86f8-0060ab1c5763.jpg)
 
 ...and combined them together using a soldering iron. Sadly don't have a picture of it but shown in the video
 
